@@ -1,12 +1,12 @@
-## MNIST_Fashion_Classification
+# MNIST_Fashion_Classification
 
-#Project Overview
+**Project Overview**
 The primary objective of this project is to design, implement, and evaluate Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models for the accurate classification of fashion images from the Fashion MNIST dataset. This project aims to strike a balance between accuracy and computational efficiency by leveraging both traditional ANN architectures and more advanced CNN models tailored for image data.
 
-#About the Dataset
+**About the Dataset**
 The Fashion MNIST dataset is a benchmark dataset widely used for image classification tasks. It contains 70,000 grayscale images of size 28x28 pixels, divided into 60,000 training samples and 10,000 testing samples. Each image represents one of 10 distinct categories of fashion items, such as T-shirts, trousers, dresses, and sneakers.
 
-#Project Goals
+**Project Goals**
 Develop an Artificial Neural Network (ANN):
 
 Design a fully connected ANN architecture as a baseline for classification.
@@ -27,13 +27,13 @@ Documentation and Codebase:
 Ensure a well-structured and modular codebase for ease of understanding and reproducibility.
 Document the design choices, challenges, and improvements made during the project.
 
-#Technologies and Tools
+**Technologies and Tools**
 Programming Language: Python
 Frameworks: TensorFlow, Keras
 Libraries: NumPy, Pandas, Matplotlib, Seaborn
 Environment: Jupyter Notebook
 
-#Expected Outcomes
+**Expected Outcomes**
 An optimized ANN model serving as a baseline for classification.
 A high-performing CNN model capable of achieving higher accuracy on the Fashion MNIST dataset.
 Insights into the differences in performance between ANN and CNN models on image classification tasks.
