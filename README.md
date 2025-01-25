@@ -12,12 +12,11 @@ The Fashion MNIST dataset is a benchmark dataset widely used for image classific
 
 ## Project Goals
 
-### 1.Develop an Artificial Neural Network (ANN):..
-...*Design a fully connected ANN architecture as a baseline for classification.
-   *Focus on achieving reasonable accuracy while maintaining simplicity in implementation.
-   *Develop a Convolutional Neural Network (CNN):
-
-Build a CNN architecture optimized for image data.
+### 1.Develop an Artificial Neural Network (ANN):  
+    * Design a fully connected ANN architecture as a baseline for classification.
+    * Focus on achieving reasonable accuracy while maintaining simplicity in implementation.
+### 2.Develop a Convolutional Neural Network (CNN):
+    * Build a CNN architecture optimized for image data.
 
 Incorporate convolutional layers, pooling layers, and dropout to enhance accuracy and reduce overfitting.
 Comparison and Evaluation:
