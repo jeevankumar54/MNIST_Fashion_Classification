@@ -13,42 +13,32 @@ The Fashion MNIST dataset is a benchmark dataset widely used for image classific
 ## Project Goals
 
 ### 1.Develop an Artificial Neural Network (ANN):  
-   * Design a fully connected ANN architecture as a baseline for classification.
-   * Focus on achieving reasonable accuracy while maintaining simplicity in implementation.
-### 2.Develop a Convolutional Neural Network (CNN):
-    * Build a CNN architecture optimized for image data.
-
-Incorporate convolutional layers, pooling layers, and dropout to enhance accuracy and reduce overfitting.
-Comparison and Evaluation:
-
-Compare the performance of the ANN and CNN models in terms of accuracy, training time, and computational efficiency.
-Fine-tune hyperparameters to optimize the performance of both models.
-Visualization and Results:
-
-Provide clear visualizations, such as loss and accuracy curves, confusion matrices, and sample predictions, to illustrate the performance of the models.
-Documentation and Codebase:
-
-Ensure a well-structured and modular codebase for ease of understanding and reproducibility.
-Document the design choices, challenges, and improvements made during the project.
+   * Design a fully connected ANN architecture as a baseline for classification.  
+   * Focus on achieving reasonable accuracy while maintaining simplicity in implementation.  
+### 2.Develop a Convolutional Neural Network (CNN):  
+   * Build a CNN architecture optimized for image data.  
+   * Incorporate convolutional layers, pooling layers, and dropout to enhance accuracy and reduce overfitting.
+### 3.Comparison and Evaluation:  
+   * Compare the performance of the ANN and CNN models in terms of accuracy, training time, and computational efficiency.  
+   * Fine-tune hyperparameters to optimize the performance of both models.  
+### 4.Visualization and Results:
+   * Provide clear visualizations, such as loss and accuracy curves, confusion matrices, and sample predictions, to illustrate the performance of the models.
+### 5.Documentation and Codebase:
+   * Ensure a well-structured and modular codebase for ease of understanding and reproducibility.
+   * Document the design choices, challenges, and improvements made during the project.
 
 
-**Technologies and Tools**
+## Technologies and Tools
 
-Programming Language: Python
-
-Frameworks: TensorFlow, Keras
-
-Libraries: NumPy, Pandas, Matplotlib, Seaborn
-
-Environment: Jupyter Notebook
+* Programming Language: Python  
+* Frameworks: TensorFlow, Keras  
+* Libraries: NumPy, Pandas, Matplotlib, Seaborn  
+* Environment: Jupyter Notebook
 
 
-**Expected Outcomes**
+## Expected Outcomes
 
-An optimized ANN model serving as a baseline for classification.
-
-A high-performing CNN model capable of achieving higher accuracy on the Fashion MNIST dataset.
-
-Insights into the differences in performance between ANN and CNN models on image classification tasks.
-
-A repository that serves as a resource for those looking to understand and implement neural networks for similar datasets.
+* An optimized ANN model serving as a baseline for classification.  
+* A high-performing CNN model capable of achieving higher accuracy on the Fashion MNIST dataset.  
+* Insights into the differences in performance between ANN and CNN models on image classification tasks.  
+* A repository that serves as a resource for those looking to understand and implement neural networks for similar datasets.  
